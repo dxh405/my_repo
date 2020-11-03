@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- page 231 -->
+<poem>
+<title>Not a Movie</title>
+
+<body>
+<top><line n='1'>Well, they rocked him with road-apples</line>
+<line n='2'>because he tried to vote</line>
+<line n='3'>and whipped his head with clubs</line>
+<line n='4'>and he crawled on his knees to his <place type='building'>house</place></line>
+<line n='5'>and he got the midnight train</line>
+<line n='6'>and he corssed the <place type='location'>Dixie line</place></line>
+<line n='7'>now he's livin'</line>
+<line n='8'><goal>on a <place type='street'>133rd.</place></goal></line></top>
+
+<bottom><line n='9'>He didn't stop in <place type='city'>Washington</place></line>
+<line n='10'>and he didn't stop in <place type='city'>Baltimore</place></line>
+<line n='11'>niether in <place type='city'>Newark</place> on the way.</line>
+<line n='12'>Six knots was on his head</line>
+<line n='13'>but, thank God, he wasn't dead!</line>
+<line n='14'>And there ain't no Ku Klux</line>
+<line n='15'><goal>on a <place type='street'>133rd</place></goal></line></bottom>
+</body>
+
+</poem>
